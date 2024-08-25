@@ -1,7 +1,7 @@
 # **My Portfolio Website**
 
 Welcome to my personal portfolio website. This project showcases my skills, projects, and experience as a developer. It includes a responsive design, dark/light mode toggling, a navigation bar with scroll effects, typing animation, scroll reveal animations, and a contact form with email functionality.
-
+See Live Demo:- https://glowing-marshmallow-1c4793.netlify.app/
 
 ## **Project Overview**
 This portfolio website serves as a personal space to display my projects, skills, and experience. The website is fully responsive and supports both dark and light modes. It also includes interactive features such as scroll animations, a typing effect, and a fully functional contact form that uses EmailJS for form submissions.

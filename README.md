@@ -95,3 +95,6 @@ If you have any questions or just want to get in touch, you can:
 
 - [Send me an email](mailto:siddharthkakkar1414@gmail.com)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/siddharth-kakkar/)
+
+👨‍💻 Developed by **SIDDHARTH KAKKAR**
+
